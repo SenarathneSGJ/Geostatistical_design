@@ -1,7 +1,7 @@
 # Geostatistical_design
 
 1. Example 1:
-1.1 Obtaining Optimal Designs
+3.1 Obtaining Optimal Designs
  The r-code to obtain designs using three loss functions are available in the following folder: Example1/Rcodes/design_selection.
  It is required to install the r-package MaternEx1_1.0.tar.gz to run this example.
  The designs for this example can be obtained by running the main r-script called main_Clayton.R inside the folder.
