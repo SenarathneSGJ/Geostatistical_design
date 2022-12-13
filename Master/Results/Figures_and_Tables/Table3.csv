@@ -1,0 +1,19 @@
+"","n.points","Dependece","Design","Est.efficiency","Pred.efficiency"
+"1","n <- 5","Week","Prediction",0.710329248104716,1
+"2","n <- 5","Week","Estimation",1,0.353495615798835
+"3","n <- 5","Week","Dual-purpose",0.783072569510439,0.792871518338317
+"4","n <- 5","Strong","Prediction",0.766680413709419,1
+"5","n <- 5","Strong","Estimation",1,0.467490729497021
+"6","n <- 5","Strong","Dual-purpose",0.917010254476136,0.932198652207168
+"7","n <- 5","Moderate","Prediction",0.730001670150801,1
+"8","n <- 5","Moderate","Estimation",1,0.66185086868033
+"9","n <- 5","Moderate","Dual-purpose",0.781483990077359,0.786110252218644
+"10","n <- 10","Week","Prediction",0.705928026069325,1
+"11","n <- 10","Week","Estimation",1,0.742461993299909
+"12","n <- 10","Week","Dual-purpose",0.941133976014394,0.980530868394686
+"13","n <- 10","Strong","Prediction",0.752517325116592,1
+"14","n <- 10","Strong","Estimation",1,0.722964411255724
+"15","n <- 10","Strong","Dual-purpose",0.914004756857607,0.91227166516244
+"16","n <- 10","Moderate","Prediction",0.778532326705886,1
+"17","n <- 10","Moderate","Estimation",1,0.758584376300283
+"18","n <- 10","Moderate","Dual-purpose",0.925842407085597,0.947829369361505
